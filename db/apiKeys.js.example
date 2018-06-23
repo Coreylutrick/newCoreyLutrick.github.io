@@ -1,0 +1,11 @@
+{
+  "firebase":
+  {
+  "apiKey": "###############",
+  "authDomain": "personal-site-9075c.firebaseapp.com",
+  "databaseURL": "https://personal-site-9075c.firebaseio.com",
+  "projectId": "personal-site-9075c",
+  "storageBucket": "personal-site-9075c.appspot.com",
+  "messagingSenderId": "#######"
+  }
+}
